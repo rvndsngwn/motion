@@ -24,7 +24,7 @@ dependencies:
     sdk: flutter
 
   motion_platform_interface: ^1.3.3
-  js: ^0.6.3
+  js: ^0.6.5
 
 dev_dependencies:
   flutter_test:

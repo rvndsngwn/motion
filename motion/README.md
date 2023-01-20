@@ -1,3 +1,9 @@
+# NOTE: 
+- It is a referenced package and a copy of the original [Motion](https://pub.dev/packages/motion) package. 
+- [Guillaume Cendre](https://github.com/mrcendre) deserves all the credit, Thanks for making a great package.
+- You can see all conversions regarding this package conflicts. [Here](https://github.com/mrcendre/motion/issues/11)
+- This copy package is automatically discontinued when the original package is updated by the owner.
+
 # Motion for Flutter widgets
 
 [![pub package](https://img.shields.io/pub/v/motion.svg)](https://pub.dev/packages/motion)

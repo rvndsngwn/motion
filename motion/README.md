@@ -2,7 +2,8 @@
 - It is a referenced package and a copy of the original [Motion](https://pub.dev/packages/motion) package. 
 - [Guillaume Cendre](https://github.com/mrcendre) deserves all the credit, Thanks for making a great package.
 - You can see all conversions regarding this package conflicts. [Here](https://github.com/mrcendre/motion/issues/11)
-- This copy package is automatically discontinued when the original package is updated by the owner.
+- It is important to respect the wishes of the [original author](https://github.com/mrcendre) of an open source package, as they have put in a lot of effort to create and maintain it. As [original author](https://github.com/mrcendre) requests that a package be discontinued, it is likely best to follow their guidance and discontinue the package. However, it is also important to consider the community's needs and any ongoing support for the package. I will always try to give my best to community. At this situation, I respect original author’s decision. So I am discontinuing the package. And I’ll be glad if I’ll be able to contribute in original package [Motion](https://pub.dev/packages/motion).
+
 
 # Motion for Flutter widgets
 
